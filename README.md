@@ -9,7 +9,6 @@ This is a web application that uses a BERT model to perform sentiment analysis o
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Input text through a simple web interface.
@@ -33,7 +32,7 @@ To set up the project locally, follow these steps:
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/prtmsh/sentiment-analysis.git
-cd sentiment-analysis-web-app
+cd sentiment-analysis
 ```
 
 ### Step 2: Set Up a Virtual Environment
